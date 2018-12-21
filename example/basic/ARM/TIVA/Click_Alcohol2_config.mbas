@@ -1,0 +1,8 @@
+module Click_Alcohol2_config
+
+include Click_Alcohol2_types
+
+const
+    _ALCOHOL2_I2C_CFG as uint32_t[1] = (_I2C_BITRATE_STANDARD_MODE)
+    
+end.
